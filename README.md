@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifsec.com/wp-content/uploads/2022/09/hello-gif-35.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-7282&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-7282" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep-7282" alt="sandeep-7282" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

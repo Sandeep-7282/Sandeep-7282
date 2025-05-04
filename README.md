@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Engineer from India</h3>
 <img align="right" alt="Coding" width="300" height="200" src="https://media.tenor.com/1lcM4DMZ2xAAAAAC/hello-jack-sparrow.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-7282&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-7282" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python, MongoDB, Version Control Systems**
+- 🌱 I’m currently learning **RTOS concepts, Edge AI**
 
-- 💬 Ask me about **React.js, Frontend development**
+- 💬 Ask me about **Firmware Development & Web development**
 
 - 📫 How to reach me **sandeepnadegouni7282@gmail.com**
 

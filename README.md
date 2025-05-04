@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">🚀 Firmware & Embedded Systems Developer | Passionate Engineer from India</h3>
+<h3 align="center">🚀 Firmware & Embedded Systems Development | Passionate Engineer from India</h3>
 
 <img align="right" alt="Embedded Dev" width="300" height="200" src="https://media.tenor.com/1lcM4DMZ2xAAAAAC/hello-jack-sparrow.gif">
 

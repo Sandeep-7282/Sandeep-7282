@@ -9,7 +9,6 @@
 
 ### 🔧 About Me
 
-- 🔭 Currently working on **Smart Home Automation using STM32 + FreeRTOS**
 - 🌱 Exploring **RTOS concepts**, **Bare-metal programming**, and **Edge AI**
 - 💬 Ask me about **Embedded C**, **STM32 (bare-metal)**, **FreeRTOS**, **I2C/SPI/UART**, and **sensor integration**
 - 📫 Reach me at **sandeepnadegouni7282@gmail.com**

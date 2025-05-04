@@ -81,7 +81,4 @@
 
 ---
 
-### ⚡ Fun Fact
-
-> I can debug both code and your mood 😄
 
